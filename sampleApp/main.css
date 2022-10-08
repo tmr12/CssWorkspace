@@ -5,6 +5,9 @@ body {
 
 #product-overview {
     background: #ff1b68;
+    padding: 20px;
+    border: black 5px solid;
+    margin:22px;
 }
 .section-title {
     color: #2ddf5c;
